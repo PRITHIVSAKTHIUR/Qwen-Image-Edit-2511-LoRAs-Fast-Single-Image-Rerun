@@ -1,6 +1,6 @@
-# Qwen-Image-Edit-2511-LoRAs-Fast-Single-Image-Rerun
+# **Qwen-Image-Edit-2511-LoRAs-Fast-Single-Image-Rerun**
 
-A Gradio-based experimental demonstration for the Qwen/Qwen-Image-Edit-2511 model with lazy-loaded LoRA adapters for single-image editing tasks. Features specialized edits like photo-to-anime conversion and multi-angle transformations. Unique integration with Rerun SDK: outputs are visualized in an interactive 3D-aware viewer, logging both original and edited images as side-by-side comparisons in a saved .rrd file.
+> A Gradio-based experimental demonstration for the Qwen/Qwen-Image-Edit-2511 model with lazy-loaded LoRA adapters for single-image editing tasks. Features specialized edits like photo-to-anime conversion and multi-angle transformations. Unique integration with Rerun SDK: outputs are visualized in an interactive 3D-aware viewer, logging both original and edited images as side-by-side comparisons in a saved .rrd file.
 
 ## Features
 
